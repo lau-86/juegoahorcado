@@ -1,0 +1,31 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(fondo.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+}
+
+#ahorcado {
+    text-align: center;
+    background-color: white;
+    border-color: black;
+    padding: 20px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    background-color: rgb(92, 118, 204);
+    
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
